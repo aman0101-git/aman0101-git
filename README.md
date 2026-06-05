@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:amanundre8@gmail.com"><img src="https://img.shields.io/badge/Email-amanundre8@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="<LINKEDIN_URL>"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="<PORTFOLIO_URL>"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="mailto:aman.undre01@gmail.com"><img src="https://img.shields.io/badge/Email-aman.undre01@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="[<LINKEDIN_URL>](https://www.linkedin.com/in/aman-undre-0a1b0c1d/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="[<PORTFOLIO_URL>](https://personal-portfolio-bay-omega.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat&logo=vercel&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Pune,%20India-📍-success?style=flat">
 </p>
 
