@@ -96,7 +96,6 @@ Call-center QA auditing & scoring platform.
 - Server-enforced audit lifecycle: `DRAFT → IN_PROGRESS → SUBMITTED → PUBLISHED → REVIEWED`
 - **Immutable published records** with snapshot-based revision history (tamper-evident audit trail)
 - Agent acknowledgment / dispute workflow
-> _Rename in progress — currently `Quality-Attendance-Management-System-`._
 
 ### 📞 [Agent Management System (AMS)](https://github.com/aman0101-git/Agent-Management-System)
 Dialer-integrated platform for loan-collection operations.
