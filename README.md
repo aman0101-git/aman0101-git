@@ -142,8 +142,8 @@ Built interactive BI dashboards and reports (Python, SQL, Excel, Power BI) to su
 ## 📫 Get in touch
 
 - 📧 **aman.undre01@gmail.com**
-- 💼 **LinkedIn:** `[<LINKEDIN_URL>](https://www.linkedin.com/in/aman-undre-0a1b0c1d/)`
-- 🌐 **Portfolio:** `[<PORTFOLIO_URL>](https://personal-portfolio-bay-omega.vercel.app/)`
+- 💼 **LinkedIn:** `https://www.linkedin.com/in/aman-undre-0a1b0c1d`
+- 🌐 **Portfolio:** `https://personal-portfolio-bay-omega.vercel.app`
 - 📍 Pune, Maharashtra, India
 
 <p align="center"><i>Open to full-stack and backend software engineering opportunities.</i></p>
