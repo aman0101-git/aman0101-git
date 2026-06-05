@@ -140,20 +140,11 @@ Built interactive BI dashboards and reports (Python, SQL, Excel, Power BI) to su
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman0101-git&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman0101-git&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📫 Get in touch
 
-- 📧 **amanundre8@gmail.com**
-- 💼 **LinkedIn:** `<LINKEDIN_URL>`
-- 🌐 **Portfolio:** `<PORTFOLIO_URL>`
+- 📧 **aman.undre01@gmail.com**
+- 💼 **LinkedIn:** `[<LINKEDIN_URL>](https://www.linkedin.com/in/aman-undre-0a1b0c1d/)`
+- 🌐 **Portfolio:** `[<PORTFOLIO_URL>](https://personal-portfolio-bay-omega.vercel.app/)`
 - 📍 Pune, Maharashtra, India
 
 <p align="center"><i>Open to full-stack and backend software engineering opportunities.</i></p>
